@@ -5,6 +5,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zildogga" alt="zildogga" /></a> </p>
 
+## 🚀 What I Do
+
+I am a proactive and analytical Computer Science student with expertise in various programming languages and technologies. I have a GPA of 87 in Computer Science and possess excellent problem-solving and analytical thinking skills. I enjoy building applications and models that leverage my knowledge in different domains.
+
+## 💼 My Expertise
+
+- **C & C++**: With a strong foundation in C and C++, I have developed low-level applications and optimized algorithms for enhanced performance, and worked with multi-hreading and multi-proccessing
+- **Java**: I have experience building games using Java with JavaGUI.
+- **Python**: I am proficient in Python and have worked extensively with libraries such as **Pandas** and **TensorFlow** to develop deep learning models.
+- **MySQL**: I have knowledge of MySQL and have worked on data manipulation in a database.
+
+In addition to my expertise in the above-mentioned technologies, I have a fast perception and great analytical thinking skills, which allow me to quickly understand and solve complex problems.
+
+<!-- - 🔭 I’m currently working on **Wordle Like Game** -->
+
+- 📫 How to reach me **omer.groman123@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/omergroman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omergroman" height="30" width="40" /></a>
