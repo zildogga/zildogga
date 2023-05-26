@@ -1,10 +1,3 @@
-<a href="https://komarev.com/ghpvc/?username=ronensiv">
-  <img align="right" src="https://komarev.com/ghpvc/?username=ronensiv&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
-[![wakatime](https://wakatime.com/badge/user/d2b12c68-6219-49e7-bf77-ca120ea251ed/project/6f3f04f1-8299-4854-b246-a2994651281a.svg)](https://wakatime.com/badge/user/d2b12c68-6219-49e7-bf77-ca120ea251ed/project/6f3f04f1-8299-4854-b246-a2994651281a)
-
-
 <!-- Intro  -->
 <h1 align="center">Hi 👋, I'm Omer Groman</h1>
 <h3 align="center">I am a Computer Science student at Bar-ilan university</h3>
